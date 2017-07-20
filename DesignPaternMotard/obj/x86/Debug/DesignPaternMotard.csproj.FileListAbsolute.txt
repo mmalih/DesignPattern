@@ -1,0 +1,5 @@
+/Users/maeva/Projects/DesignPaternMotard/DesignPaternMotard/bin/Debug/DesignPaternMotard.exe
+/Users/maeva/Projects/DesignPaternMotard/DesignPaternMotard/bin/Debug/DesignPaternMotard.pdb
+/Users/maeva/Projects/DesignPaternMotard/DesignPaternMotard/obj/x86/Debug/DesignPaternMotard.csproj.CoreCompileInputs.cache
+/Users/maeva/Projects/DesignPaternMotard/DesignPaternMotard/obj/x86/Debug/DesignPaternMotard.exe
+/Users/maeva/Projects/DesignPaternMotard/DesignPaternMotard/obj/x86/Debug/DesignPaternMotard.pdb

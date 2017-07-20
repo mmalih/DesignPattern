@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2F481B49-6D33-40E6-AC46-C3573BC2E1EE}|Default">
+  <MonoDevelop.Ide.ItemProperties.DesignPaternMotard PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DesignPaternMotard/Program.cs">
+    <Files>
+      <File FileName="DesignPaternMotard/Program.cs" Line="11" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
